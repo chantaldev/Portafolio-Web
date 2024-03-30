@@ -1,0 +1,299 @@
+
+@media only screen and (min-width: 2500px) {
+    .c1{
+        margin-left : 460px;
+    }
+    
+    .c2{
+        margin-left: 230px;
+    }
+    
+    .c3{
+        margin-right: 780px;
+    }
+    
+    .ytsection{
+         width: 2000px;
+        /* margin-left: 250px; */
+    }
+    
+    
+}
+@media only screen and (max-width: 1920px) {
+    body {
+        font-size: 14px;
+    }
+
+  
+
+    #banner img {
+        height: 600px;
+    }
+
+    #navbarNav{
+        padding-left: 230px;
+    }
+
+    .custom-shape-divider-bottom-1700357920 svg {
+        height: 50px;
+    }
+
+    .carousel-inner img {
+        height: 500px;
+    }
+
+    .obras img {
+        height: 200px;
+    }
+
+    .card {
+        width: 300px;
+        height: 400px;
+    }
+
+    .listGSection .list-group {
+        width: 250px;
+    }
+
+    .price-table {
+        margin: 0;
+    }
+
+    footer .divColFooter p {
+        font-size: 16px;
+    }
+
+    .c1{
+        margin-left : 20px;
+    }
+
+    .c2{
+        margin-left: 40px;
+    }
+    
+    .c3{
+        margin-left: 40px;
+    }
+
+    .ytsection{
+        width: 1600px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-content: flex-start;
+       padding-top: 200px;
+       padding-right: 200px;
+    
+    }
+
+    .lg1{
+        margin-right: 60px;
+    }
+
+    .lg2{
+        margin-right: 0px;
+    }
+    .lg3{
+        margin-left: 20px;
+    }
+}
+
+
+
+/* Media query para pantallas de hasta 414px */
+@media only screen and (max-width: 414px) {
+    .brandName {
+        margin-left: 10px;
+    }
+
+    .card1 img {
+        width: 100%; /* Hacer que la imagen ocupe el 100% del ancho del card */
+        display: block;
+        margin: 0 auto; 
+    }
+
+    .card1 p {
+        font-size: 18px;
+        text-align: center;
+        margin: 10px 0; 
+    }
+
+    .card1 {
+        width: 100%; /* Hacer que el card ocupe el 100% del ancho del contenedor */
+        max-width: 300px; /* Establecer un ancho máximo para evitar que sea demasiado ancho en pantallas grandes */
+        margin: 0 auto; 
+        margin-bottom: 50px;
+        /* margin-top: 50px; */
+
+    }
+
+    .imgContacto img{
+        display: none;
+    }
+
+    .contactH1H3{
+        padding-left: 0px;
+    }
+
+    .form-group{
+        margin-bottom: 10px;
+        width: 300px;
+        margin-left: 0px;
+    }
+
+    .formDiv{
+        padding-right: 00px;
+    }
+
+    .buttonContact{
+        padding-left: 00px;
+    }
+
+    .infoBallet p {
+        font-size: 15px !important;
+        font-weight: 300;
+        padding: 5px;
+    }
+
+    #whatsapp-button {
+        position: fixed;
+        bottom: 5px; 
+        right: 60px; 
+        z-index: 1000;
+        /* height: 40px; */
+        
+    }
+
+    #whatsapp-button img{
+        height: 60px;
+        
+    }
+
+    .mapa{
+        height: 180px; 
+        overflow: hidden;
+    }
+
+    .headerFAQ h2{
+        margin-top: 280px;
+    }
+
+    .accordion-button{
+        font-size: 21px;
+    }
+
+    .aboutImg{
+        display: none;
+    }
+
+    .overlay-content{
+    padding: 30px;
+
+    }
+    .overlay-content h1{
+        font-size: 40px;
+        margin-top: 40px;
+    }
+
+    .overlay-content p{
+        font-size: 20px;
+    }
+
+    #iconoAzul{
+        display: none;
+    }
+    
+    .Orgullo h1{
+        font-size: 40px;
+    }
+
+
+    .profeDiv{
+        height: 300px;
+        margin-top: 30px;
+    }
+
+    .DivFotoyP{
+        left: 5px;
+        clip-path: circle(30%);
+    }
+    
+    .profeDiv p{
+        margin-bottom: 50px;
+        font-size: 20px;
+        font-weight: 800 !important;
+        color: black !important;
+    }
+
+    .video-background iframe{
+        height: 400px;
+        width: 400px;
+    }
+
+    .video-background {
+        width: 460px;
+        margin-top: 40px;
+        margin-bottom: 40px ;
+        /* margin-left: 40px; */
+    }
+
+    .custom-shape-divider-top-1701205963{
+        display: none;
+    }
+    .custom-shape-divider-bottom-1701206005{
+        display: none;
+    }
+
+    .TestimoniosSection h1{
+        font-size: 40px;
+    }
+
+    .TestimoniosSection h2{
+        font-size: 30px;
+        margin-left: 0px;
+    }
+
+    #ninasFun{
+        display: none;
+    }
+
+    .ninasDiv{
+        width:350px ;
+    }
+
+    .puntitosDiv{
+        width:340px ;
+    }
+
+    #puntitos{
+        width: 330px;
+        top: 0%;
+        right: 0%; 
+    }
+
+    .puntitosDiv h1 {
+        font-size: 50px;
+        top: 5%;
+        left: 7%;
+    }
+
+    #ninasTestiminio{
+    width: 300px;
+    position: absolute;
+    left: 10%;
+    bottom: 10%;
+    z-index: 3;
+    }
+    
+    .carousel-item h2, p {
+        font-size: 20px !important;
+    }
+
+    #exampleModal{
+        margin-top:30px;
+    }
+    
+    .modal-header img{
+        height:200px;
+    }
+}
